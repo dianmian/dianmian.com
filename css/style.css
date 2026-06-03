@@ -183,9 +183,10 @@ ul { list-style: none; }
 
 .logo-img {
     display: block;
-    height: 42px;
+    height: 45px;
     width: auto;
     flex-shrink: 0;
+    border-radius: 4px;
 }
 
 .logo-text {
@@ -272,9 +273,8 @@ ul { list-style: none; }
 }
 
 .hero-logo img {
-    height: 100px;
+    height: 110px;
     width: auto;
-    opacity: 0.95;
 }
 
 .hero-content {
