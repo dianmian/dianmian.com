@@ -54,17 +54,17 @@ dianmian-website/
 - ✅ **OEKO-TEX® 认证** → 品控体系 & About & Hero 区标注
 - ✅ **合作品牌板块** → 新增品牌展示区（占位，可替换实际 Logo）
 - ✅ **起订/交期信息** → Hero 区 + 联系区显示（1米起订/3-5天打样/一周交期）
-- ✅ 域名 CNAME 更新为 dianmian.com（GitHub Pages 就绪）
+- ✅ 域名 CNAME 更新为 indigocn.com（GitHub Pages 就绪）
 
 ## 上线备忘
 
 ### GitHub Pages 部署步骤
-1. 在 GitHub 新建仓库（如 `dianmian.com`）
+1. 在 GitHub 新建仓库（如 `indigocn.com`）
 2. 将整个 `dianmian-website/` 文件夹所有文件上传
 3. 前往 Settings → Pages → Source 选 main 分支 / (root)
-4. 在域名 DNS 管理处添加 CNAME 解析 `www.dianmian.com` → `你的用户名.github.io`
+4. 在域名 DNS 管理处添加 CNAME 解析 `www.indigocn.com` → `你的用户名.github.io`
 5. 等待 SSL 证书自动签发（约 5-15 分钟）
-6. 访问 `https://www.dianmian.com` 即可
+6. 访问 `https://www.indigocn.com` 即可
 
 ## 仍需补充（后续迭代）
 
