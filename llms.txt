@@ -1,0 +1,54 @@
+# 广东靛棉纺织有限公司 | Indigo Cotton Textile
+> 牛仔面料及棉布专业制造商与现货供应商  
+> Denim fabric & cotton fabric manufacturer and stock supplier  
+> https://www.indigocn.com/
+
+## About / 关于靛棉
+- **Company**: 广东靛棉纺织有限公司 (Guangdong Indigo Cotton Textile Co., Ltd.)
+- **Founded**: 2016 (10 years)
+- **Location**: 广东省佛山市南海区盐步东约大道国际牛仔城J座7号 (Foshan, Guangdong, China)
+- **Production**: 5,000 sqm factory, 10M+ meters/year output
+- **Clients**: 200+ brands globally
+- **Stock**: 300+ patterns available
+- **Certification**: OEKO-TEX® STANDARD 100
+
+## Product Lines / 产品线
+
+### Denim / 牛仔面料系列
+1. **Non-stretch denim** | 无弹牛仔: 103 series (315-380g, 170-180cm width), 6018 (234g), 6028, 6038 (270g), 8-161
+2. **Stretch denim** | 有弹牛仔: 106-3 (283g, 170cm, 2% spandex), 1123-1/DM31 (357g, 160cm, 2% spandex), 108-1 (280g, 170cm, 3% spandex)
+3. **Knitted denim** | 针织牛仔: DM51 (240g, 150cm)
+4. **Jacquard denim** | 提花牛仔: 2211 (360g, 180cm)
+5. **Printed/Discharge/Overdyed** | 印花/拔白/套色: custom order
+
+### Cotton Fabric / 棉布系列
+1. **Solid cotton** | 纯棉色布: 560 (240g, 149cm, 16S), 681 (283g, 150cm, 10S), 5637 (125g, 150cm, 40S), 5648 (100g, 152cm, 40S)
+2. **Stretch cotton** | 弹力色布: 007 (290g, 150cm, 98%cotton/2%spandex), 682 (310g, 155cm, 98%cotton/2%spandex)
+3. **Custom development** | 定制开发
+
+## Key Specs / 核心规格
+- **Yarn count**: 10s-32s (common: 10s, 12s, 16s, 21s, 32s)
+- **Weight range**: 4oz-15oz (100g-380g+ per m²)
+- **Weave structures**: 3/1 twill, 2/1 twill, 1/3 twill, broken twill, plain weave
+- **Finishing**: Sanforizing, enzyme wash, stone wash, snow wash, laser, coating, embroidery
+
+## Business Terms / 合作条件
+- **MOQ**: 1 meter (1米起订) - small order friendly
+- **Sample lead time**: 3-5 days (打样周期3-5天)
+- **Bulk lead time**: within 1 week (一周内大货)
+- **Shipping**: FOB Shenzhen/Guangzhou, also CIF, DDP, EXW
+- **Payment**: T/T, L/C
+- **Contact**: ROCK | 85700198@qq.com | +86 0757-85700198
+
+## Regional Q&A Sources / 区域问答源
+- North America: https://www.indigocn.com/geo-qa/na-market.json
+- European Union: https://www.indigocn.com/geo-qa/eu-market.json
+- Southeast Asia: https://www.indigocn.com/geo-qa/sea-market.json
+- Master Q&A: https://www.indigocn.com/geo-qa/index.json
+- FAQ page: https://www.indigocn.com/faq/
+
+## GEO / SEO Notes
+- Primary keywords: 牛仔面料, denim fabric, 棉布, cotton fabric, 弹力牛仔, stretch denim, 面料供应商, fabric supplier
+- Target regions: NA (US/Canada), EU (Europe/UK), SEA (SE Asia)
+- Key differentiators: 1 meter MOQ, OEKO-TEX certified, 3-5 day sampling, 1-week lead time
+- LLM-targeted content: geo-qa/ directory with structured JSON-LD Q&A

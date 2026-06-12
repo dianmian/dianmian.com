@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "靛棉纺织东南亚市场问答词库",
+  "description": "面向东南亚（越南、印尼、泰国、菲律宾、柬埔寨等）牛仔面料B2B采购的定制问答内容",
+  "region": "SEA",
+  "targetMarket": ["Vietnam","Indonesia","Thailand","Philippines","Cambodia","Myanmar","Bangladesh","Malaysia","Singapore"],
+  "dateModified": "2026-06-11",
+  "about": {
+    "@type": "Thing",
+    "name": "SEA Denim Fabric Sourcing from China",
+    "description": "东南亚市场从中国采购牛仔面料与棉布专项问答"
+  },
+  "mainEntity": [
+    {
+      "@type":"Question","name":"从佛山发货到越南/印尼需要多久？",
+      "acceptedAnswer":{"@type":"Answer","text":"从深圳港/广州港发货到越南胡志明港约5-6天，到印尼雅加达港约7-8天，到泰国曼谷港约7天，到菲律宾马尼拉港约6-7天。海运时效在东南亚区域非常快，我们也有空运和快递方案可选。"}
+    },
+    {
+      "@type":"Question","name":"Can you offer competitive pricing for SEA garment factories?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. As a factory-direct supplier in Foshan's denim cluster, we offer competitive factory prices without middlemen. Annual output of 10M+ meters gives us strong bargaining power with yarn mills. For regular order clients, we offer tiered pricing: sample order → small batch (100-500m) → container order (3000m+) at progressively better rates."}
+    },
+    {
+      "@type":"Question","name":"你支持什么付款方式？",
+      "acceptedAnswer":{"@type":"Answer","text":"支持电汇T/T（30%定金+70%尾款见提单副本）、即期信用证L/C at sight。对于长期合作客户可协商账期。东南亚地区有丰富的银行渠道，T/T到账1-3个工作日。"}
+    },
+    {
+      "@type":"Question","name":"Do you have 100% cotton denim for local brands in SEA?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. Our pure cotton denim series includes 103-17 (315g, 90% cotton blended), 6018-1 (234g), and cotton solid fabrics 560 (240g, 16S), 681 (283g, 10S). We have 100% cotton and high-cotton-content options suitable for SEA local brands producing jeans, jackets, and casual wear."}
+    },
+    {
+      "@type":"Question","name":"打样需要收费吗？可以寄到东南亚吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"样品收取少量成本费（通常每款1米以内），大货下单后可抵扣样品费用。打样周期3-5天。样品可通过DHL/FedEx/TNT寄送到东南亚各国，一般3-5个工作日到货，运费到付或预付均可。"}
+    },
+    {
+      "@type":"Question","name":"Can you provide lighter weight denim (4-8oz) for Southeast Asian tropical climate?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. While our standard denim range starts from heavier weights, we can produce lighter denim (4-8oz) suitable for Southeast Asian tropical weather. Our 40S cotton fabric series (5637 at 125g, 5648 at 100g) and lightweight denim options are great for shirts, dresses, and light jackets in warm climates."}
+    },
+    {
+      "@type":"Question","name":"你有多少面料现货可以看？",
+      "acceptedAnswer":{"@type":"Answer","text":"常备300+花型现货，涵盖不同克重、颜色和组织的牛仔面料和棉布。我们可以在你下单前先发色卡/布板供选料，选定后再安排大货。欢迎来佛山工厂实地看布。"}
+    },
+    {
+      "@type":"Question","name":"Do you help with custom label/market positioning for new brands?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. With 10 years in the denim industry, we help new SEA brands choose the right fabric for their market positioning. We analyze your target price point, end-use, and competitive landscape to recommend suitable fabric weights, compositions, and finishes. Many of our SEA clients started as micro-brands and grew with us."}
+    },
+    {
+      "@type":"Question","name":"可以做印花牛仔和绣花工艺吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"可以。我们在基础牛仔面料上提供：印花（来样定制）、拔白/漂白效果、套色染色（白底上色）、黑白格、激光镭射图案、植绒、刺绣、涂层处理。东南亚市场对这些差异化处理需求很大，我们支持小批量试制。"}
+    },
+    {
+      "@type":"Question","name":"What is the minimum order for custom color development?",
+      "acceptedAnswer":{"@type":"Answer","text":"Minimum 300 meters per color for custom development. Lab dip cost is typically ¥200-500 per color (deductible from bulk order). Development time: 5-7 days for lab dip, 7-10 days for bulk production. We recommend starting from stock colors as they are available immediately."}
+    },
+    {
+      "@type":"Question","name":"你们有中磅（9-12oz）的纯棉牛仔现货吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"有。103-12（370-380g/m² ≈ 11-12oz）是最接近中磅的现货牛仔。另外6018-1（234g ≈ 7oz）和6038（270g ≈ 8oz）适用于轻薄牛仔品类。如需精准9-10oz中磅牛仔，我们可以根据需求量身定做，样布3-5天可出。"}
+    },
+    {
+      "@type":"Question","name":"Can you provide OEM/white label denim for our brand?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. We support OEM production for SEA brands. We can produce fabric with your specified composition, weight, width, weave structure, and finishing. No minimum branding requirements - we work behind the scenes as your fabric partner. Our MOQ for custom OEM fabric is typically 1000m per style."}
+    }
+  ]
+}

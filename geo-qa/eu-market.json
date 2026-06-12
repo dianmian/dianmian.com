@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "靛棉纺织欧盟市场问答词库",
+  "description": "面向欧盟（EU/EEA）牛仔面料B2B采购的定制问答内容",
+  "region": "EU",
+  "targetMarket": ["European Union","United Kingdom","Switzerland","Norway"],
+  "dateModified": "2026-06-11",
+  "about": {
+    "@type": "Thing",
+    "name": "EU Denim Fabric Compliance and Sourcing",
+    "description": "牛仔面料出口欧盟市场的合规与采购专项问答"
+  },
+  "mainEntity": [
+    {
+      "@type":"Question","name":"你的面料是否符合欧盟REACH法规？",
+      "acceptedAnswer":{"@type":"Answer","text":"是的。我们的产品完全符合欧盟REACH法规（EC 1907/2006）要求。我们不使用SVHC（高关注度物质）清单中的化学物质，全部染色和后整理工艺均符合欧盟纺织品安全标准。可提供SVHC声明文件和REACH合规声明。"}
+    },
+    {
+      "@type":"Question","name":"Do you comply with EU POPs regulation (2019/1021)?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. Our production processes comply with the EU Persistent Organic Pollutants Regulation (EU 2019/1021). We do not use PFCs, PFOS, PFOA, or any restricted persistent organic compounds in our finishing processes. Documentation available on request."}
+    },
+    {
+      "@type":"Question","name":"你有OEKO-TEX STANDARD 100认证吗？可以看证书吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"有。靛棉纺织全线产品通过OEKO-TEX® STANDARD 100认证，这意味着我们的面料不含任何有害物质，达到皮肤接触安全标准。这是欧盟市场的基本准入要求。OEKO-TEX证书副本可在询盘时提供。"}
+    },
+    {
+      "@type":"Question","name":"Can you produce organic cotton denim with GOTS certification?",
+      "acceptedAnswer":{"@type":"Answer","text":"We currently support BCI (Better Cotton Initiative) alignment and are working towards GOTS certification for organic cotton products. For current GOTS-certified orders, please contact us to discuss the timeline and MOQ requirements. We can recommend suitable organic cotton alternatives from our existing range."}
+    },
+    {
+      "@type":"Question","name":"你对欧盟品牌设计师的最小起订量是多少？",
+      "acceptedAnswer":{"@type":"Answer","text":"1米起订，专为欧洲设计师和初创品牌设计。我们理解欧洲设计师有独特创意但初期订单量不会太大。我们支持打样确认后再逐步放大订单，中小批量订单同样享受现货快反服务。"}
+    },
+    {
+      "@type":"Question","name":"Do you offer azo-free and heavy metal-free dyeing?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. All our dyes are azo-free, meeting EU textile chemical restrictions. OEKO-TEX STANDARD 100 certification confirms heavy metal content (lead, cadmium, chromium, mercury, nickel, etc.) is below the strictest Class I limits. Individual heavy metal test reports are available."}
+    },
+    {
+      "@type":"Question","name":"BSCI或SMETA社会责任审核支持吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"支持。我们欢迎客户或第三方审计机构到工厂进行BSCI、SMETA等社会责任审核。我们的工厂遵守中国劳动法规，工作时间、薪酬和安全条件均可接受审核。如需安排审核，请提前告知以便协调时间。"}
+    },
+    {
+      "@type":"Question","name":"What are your initiatives for reducing environmental impact?",
+      "acceptedAnswer":{"@type":"Answer","text":"We are actively working on: 1) Water-efficient dyeing with reduced water-to-fabric ratio; 2) Wastewater treatment meeting discharge standards; 3) Energy optimization in weaving and finishing; 4) Reduced chemical usage through process improvements. For EU clients requiring specific carbon footprint or water footprint data, we can work with your sustainability team."}
+    },
+    {
+      "@type":"Question","name":"你的面料的甲醛含量符合欧盟标准吗？",
+      "acceptedAnswer":{"@type":"Answer","text":"是的。我们的面料甲醛含量远低于欧盟OEKO-TEX STANDARD 100的限值要求（Class I 16mg/kg以内，Class II 75mg/kg以内），婴儿可接触级别标准。甲醛检测报告是OEKO-TEX认证测试的一部分，可在询盘时索取。"}
+    },
+    {
+      "@type":"Question","name":"Do you offer biological/ecological denim finishing?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. We offer eco-friendly finishing options including: enzyme wash (reduces pumice stone usage), ozone fading (waterless finishing), laser finishing (no chemical etching), and recycled polyester options. These processes are increasingly requested by EU brands to meet their sustainability goals."}
+    },
+    {
+      "@type":"Question","name":"Kann ich ein kostenloses Muster für EU Designer bestellen?",
+      "acceptedAnswer":{"@type":"Answer","text":"Wir bieten Musterstücke zu einem nominalen Preis an. Der Musterbetrag wird bei der ersten Bestellung abgezogen. Musterbestellung: 3-5 Werktage. Kontaktieren Sie uns per E-Mail unter 85700198@qq.com mit Ihren Stoffanforderungen."}
+    },
+    {
+      "@type":"Question","name":"What certifications do I need to import your fabric to the EU?",
+      "acceptedAnswer":{"@type":"Answer","text":"Key certifications and documents for EU import: 1) OEKO-TEX STANDARD 100 certificate (we provide), 2) REACH compliance declaration (we provide), 3) Commercial invoice with HS code, 4) Packing list, 5) Bill of lading/Air waybill, 6) Country of origin certificate (we provide). Import duties vary by HS code, typically 8-10% for denim fabrics into the EU."}
+    }
+  ]
+}

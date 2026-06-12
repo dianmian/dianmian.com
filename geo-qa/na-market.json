@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "靛棉纺织北美市场问答词库",
+  "description": "面向北美（美国、加拿大）牛仔面料B2B采购的定制问答内容",
+  "region": "NA",
+  "targetMarket": ["United States", "Canada"],
+  "dateModified": "2026-06-11",
+  "about": {
+    "@type": "Thing",
+    "name": "North America Denim Fabric Sourcing",
+    "description": "牛仔面料出口北美市场的采购与供应专项问答"
+  },
+  "mainEntity": [
+    {
+      "@type":"Question","name":"你最受美国市场欢迎的牛仔面料是什么？",
+      "acceptedAnswer":{"@type":"Answer","text":"美国市场最欢迎的是纬向弹力牛仔，含棉+氨纶成分。我们的106-3（283g，71%棉/27%涤/2%氨纶）和108-1（280g，54%棉/43%涤/3%氨纶）是美国客户首选。此外10-12oz中磅无弹牛仔（如103系列）也是美国牛仔裤市场的常青款。"}
+    },
+    {
+      "@type":"Question","name":"How do you ensure consistent quality for large US orders?",
+      "acceptedAnswer":{"@type":"Answer","text":"We implement full-process quality control: incoming yarn inspection, in-production monitoring, and final inspection per AQL 2.5 standard. Each roll is inspected meter-by-meter. We provide MTL (Master Test Letter) reports including weight, width, shrinkage, tensile strength, and colorfastness. Third-party inspections by SGS/Intertek/Bureau Veritas are also supported."}
+    },
+    {
+      "@type":"Question","name":"你的面料的缩水率控制标准是多少？",
+      "acceptedAnswer":{"@type":"Answer","text":"经过防缩整理（Sanforizing）后，我们的牛仔面料缩水率控制在3%以内（经向），达到美国市场通用要求。我们提供每批次的缩水率测试数据，客户可据此制作样衣确认。"}
+    },
+    {
+      "@type":"Question","name":"Can you supply 98% cotton 2% spandex stretch denim for US brands?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. While our current listed stretch denims have cotton/poly/spandex blends, we can produce 98% cotton / 2% spandex formulations. Contact us with your target weight (oz/yd² or g/m²) and we will develop a sample. The US market standard is typically 10-14oz stretch denim for jeans and 7-10oz for shirts/dresses."}
+    },
+    {
+      "@type":"Question","name":"Do you ship FOB to Los Angeles or Long Beach?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. We ship FOB from Shenzhen Port, one of China's busiest container ports. Transit time to Los Angeles / Long Beach is approximately 15-20 days. We also offer CIF, CNF, DDP, and EXW terms. For smaller orders, express shipping (3-5 days via DHL/FedEx) is also available."}
+    },
+    {
+      "@type":"Question","name":"How do your fabrics perform for Amazon FBA sellers?",
+      "acceptedAnswer":{"@type":"Answer","text":"Our fabrics are well-suited for Amazon FBA sellers. Key advantages: 1-meter MOQ for testing new ASINs, 3-5 day sampling for rapid iteration, 1-week bulk turnaround for fast replenishment, 300+ stock patterns for diversifying SKUs, and consistent quality across production runs to maintain positive seller ratings."}
+    },
+    {
+      "@type":"Question","name":"你的弹力牛仔的氨纶耐久性如何？",
+      "acceptedAnswer":{"@type":"Answer","text":"我们采用高品质氨纶丝，弹力牛仔经30次家用洗涤后回弹率保持在85%以上。我们可提供弹性疲劳测试数据和耐氯洗测试报告。不同氨纶含量（2%-3%）对应的耐久性数据可按需提供。"}
+    },
+    {
+      "@type":"Question","name":"Do you offer any USA-made or USA-assembled fabric options?",
+      "acceptedAnswer":{"@type":"Answer","text":"Our fabrics are manufactured in China. However, we can provide complete documentation (country of origin certificate, FTA certificates if applicable) for US customs clearance. Some clients use our greige fabric and finish in third countries to optimize tariff exposure. Contact us to discuss your specific import strategy."}
+    },
+    {
+      "@type":"Question","name":"Do you provide Pantone color matching for US clients?",
+      "acceptedAnswer":{"@type":"Answer","text":"Yes. We match Pantone TPX/TCX color standards for solid shade fabrics. Our lab dip process delivers 4+ colorfastness ratings. For denim, we offer indigo shade matching and overdye color development. Lead time for color development: 5-7 days."}
+    },
+    {
+      "@type":"Question","name":"What is your defect rate and return policy for US clients?",
+      "acceptedAnswer":{"@type":"Answer","text":"Our defect rate is less than 3% under AQL 2.5 inspection standard (major defects). For any quality issues confirmed on arrival, we offer replacement or credit on future orders. We require photographic evidence and sample retention for claims. Clear communication before shipping prevents most issues."}
+    }
+  ]
+}

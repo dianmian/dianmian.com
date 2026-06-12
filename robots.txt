@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+Sitemap: https://www.indigocn.com/sitemap.xml
+
+# Crawl-delay recommended for LLM bots
+Crawl-Delay: 10
