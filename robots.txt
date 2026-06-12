@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
 Allow: /faq/
+Allow: /products/
+Allow: /tech/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt

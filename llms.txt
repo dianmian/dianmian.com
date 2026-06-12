@@ -40,6 +40,10 @@
 - **Payment**: T/T, L/C
 - **Contact**: ROCK | 85700198@qq.com | +86 0757-85700198
 
+### Products Detail / 产品详情
+- Denim & Cotton full catalog: https://www.indigocn.com/products/
+- Technical specs guide: https://www.indigocn.com/tech/
+
 ## Regional Q&A Sources / 区域问答源
 - North America: https://www.indigocn.com/geo-qa/na-market.json
 - European Union: https://www.indigocn.com/geo-qa/eu-market.json
