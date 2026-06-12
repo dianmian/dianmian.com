@@ -1,13 +1,92 @@
+# 靛棉纺织 — robots.txt
+# https://www.indigocn.com/
+
+# ====== 搜索引擎通用 ======
 User-agent: *
 Allow: /
-Allow: /faq/
 Allow: /products/
 Allow: /tech/
+Allow: /faq/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
 
-Sitemap: https://www.indigocn.com/sitemap.xml
+Disallow: /images/logo-header-new.jpg
+Disallow: /images/logo-footer-transparent.png
 
-# Crawl-delay recommended for LLM bots
+Sitemap: https://www.indigocn.com/sitemap.xml
+Crawl-Delay: 5
+
+# ====== 百度 ======
+User-agent: Baiduspider
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+Crawl-Delay: 5
+
+# ====== Google ======
+User-agent: Googlebot
+Allow: /
+Allow: /products/
+Allow: /tech/
+Crawl-Delay: 3
+
+# ====== AI / LLM Crawlers ======
+# ChatGPT / OpenAI
+User-agent: GPTBot
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+Crawl-Delay: 10
+
+# Google AI / Gemini
+User-agent: Google-Extended
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+Crawl-Delay: 10
+
+# Anthropic / Claude
+User-agent: anthropic-ai
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+Crawl-Delay: 10
+
+# CommonCrawl (大模型训练数据源)
+User-agent: CCBot
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
+Crawl-Delay: 10
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+Allow: /products/
+Allow: /tech/
+Allow: /faq/
+Allow: /geo-qa/
+Allow: /llms.txt
+Allow: /llms-full.txt
 Crawl-Delay: 10
