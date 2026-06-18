@@ -84,18 +84,48 @@
         }]
     }
     </script>
-    <!-- Product Schema: 牛仔系列 -->
+    <!-- Product Schema: 牛仔系列（含Offers和SKU） -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "无弹牛仔面料",
-        "description": "经典牛仔品类，涵盖10S-16S纱支。主打103系列（315-380g/m²，幅宽170-180cm），适用于牛仔裤、夹克、裙装。",
+        "sku": "DN-NR-103",
+        "mpn": "IC-NON-STRETCH-001",
+        "image": [
+            "https://www.indigocn.com/images/product-denim-103.jpg"
+        ],
+        "description": "经典牛仔品类，纱支10S-16S，主打103系列（315-380g/m²，幅宽170-180cm），适用于牛仔裤、夹克、裙装。1米起订，3-5天打样。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
         "category": "牛仔面料",
         "material": "棉/涤/粘胶",
         "pattern": "斜纹",
-        "color": "靛蓝"
+        "color": "靛蓝",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "priceSpecification": {
+                "@type": "UnitPriceSpecification",
+                "price": "0",
+                "priceCurrency": "CNY",
+                "unitText": "米",
+                "description": "请联系我们获取报价，1米起订"
+            },
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"],
+            "eligibleQuantity": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "unitText": "米"
+            }
+        }
     }
     </script>
     <script type="application/ld+json">
@@ -103,20 +133,85 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "有弹牛仔面料",
-        "description": "含氨纶弹力丝的牛仔面料，纬向弹性优异。棉/涤/氨纶混纺，克重280-357g/m²，幅宽160-170cm。",
+        "sku": "DN-ST-106",
+        "mpn": "IC-STRETCH-002",
+        "image": [
+            "https://www.indigocn.com/images/product-denim-stretch.jpg"
+        ],
+        "description": "含氨纶弹力丝的牛仔面料，纬向弹性优异。棉/涤/氨纶混纺，克重280-357g/m²，幅宽160-170cm。跨境平台热销品类。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
         "category": "牛仔面料",
-        "material": "棉/涤/氨纶"
+        "material": "棉/涤/氨纶",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
     }
     </script>
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Product",
-        "name": "针织牛仔 / 提花牛仔面料",
-        "description": "针织牛仔轻软透气（DM51型240g/m²），提花牛仔纹理立体独特（2211型360g/m²），满足差异化时装牛仔设计需求。",
+        "name": "针织牛仔面料",
+        "sku": "DN-KN-DM51",
+        "mpn": "IC-KNITTED-003",
+        "image": [
+            "https://www.indigocn.com/images/product-denim-knit.jpg"
+        ],
+        "description": "针织牛仔（DM51型，240g/m²，幅宽150cm）轻软透气，满足差异化时装牛仔设计需求。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
-        "category": "牛仔面料"
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "category": "牛仔面料",
+        "material": "棉混纺",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "提花牛仔面料",
+        "sku": "DN-JQ-2211",
+        "mpn": "IC-JACQUARD-004",
+        "image": [
+            "https://www.indigocn.com/images/product-denim-jacquard.jpg"
+        ],
+        "description": "提花牛仔（2211型，360g/m²，幅宽180cm）纹理立体独特，适合高端时装化牛仔设计。",
+        "brand": {"@type": "Brand", "name": "靛棉纺织"},
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "category": "牛仔面料",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
     }
     </script>
     <script type="application/ld+json">
@@ -124,21 +219,54 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "印花/拔白/套色牛仔面料",
+        "sku": "DN-CUS-PRNT",
+        "mpn": "IC-CUSTOM-005",
         "description": "基础牛仔面料二次加工，提供印花、拔白、套色等花型定制，快速响应中小批量订单。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
-        "category": "牛仔面料"
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "category": "牛仔面料",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
     }
     </script>
-    <!-- Product Schema: 棉布系列 -->
+    <!-- Product Schema: 棉布系列（含Offers） -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "纯棉色布",
-        "description": "100%全棉面料，纱支10S-40S，克重100-283g/m²，幅宽149-152cm。适用于服装、工装、家纺。",
+        "sku": "CT-SL-560",
+        "mpn": "IC-COTTON-006",
+        "image": [
+            "https://www.indigocn.com/images/product-cotton.jpg"
+        ],
+        "description": "100%全棉面料，纱支10S-40S，克重100-283g/m²，幅宽149-152cm。适用于服装、工装、家纺。1米起订。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
         "category": "棉布",
-        "material": "100%棉"
+        "material": "100%棉",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
     }
     </script>
     <script type="application/ld+json">
@@ -146,10 +274,25 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "弹力色布",
+        "sku": "CT-ST-007",
+        "mpn": "IC-STRETCH-COTTON-007",
         "description": "棉氨混纺弹力布，含2%氨纶（拉架），克重290-310g/m²，幅宽150-155cm。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
         "category": "棉布",
-        "material": "98%棉/2%氨纶"
+        "material": "98%棉/2%氨纶",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
     }
     </script>
     <script type="application/ld+json">
@@ -157,9 +300,53 @@
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "面料定制开发服务",
+        "sku": "CT-CUS-DEV",
+        "mpn": "IC-CUSTOM-SERVICE-008",
         "description": "来样定做和定向研发，支持纱支规格、组织结构和后整理工艺定制。快速打样，3-5天出样。",
         "brand": {"@type": "Brand", "name": "靛棉纺织"},
-        "category": "定制服务"
+        "manufacturer": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "category": "定制服务",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.indigocn.com/#contact",
+            "priceCurrency": "CNY",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "areaServed": ["CN", "US", "EU", "SEA"]
+        }
+    }
+    </script>
+    <!-- Article Schema: 企业品牌故事 -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "@id": "https://www.indigocn.com/#article-about",
+        "headline": "广东靛棉纺织有限公司 — 牛仔面料及棉布专业制造商",
+        "description": "靛棉纺织（Guangdong Indigo Cotton Textile Co., Ltd.）成立于2016年，专注牛仔面料及棉布研发生产10年，年产量超1000万米，服务200+全球服装品牌，OEKO-TEX®认证。",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.indigocn.com/"
+        },
+        "image": "https://www.indigocn.com/images/logo-hero-transparent.png",
+        "author": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "广东靛棉纺织有限公司",
+            "url": "https://www.indigocn.com"
+        },
+        "datePublished": "2026-06-01",
+        "dateModified": "2026-06-18",
+        "articleBody": "广东靛棉纺织有限公司成立于2016年，是一家集研发、生产、现货供应于一体的牛仔面料及棉布专业制造商。年产量超1000万米牛仔面料，服务超200+国内外服装品牌，覆盖欧美、东南亚跨境市场。主营产品涵盖牛仔系列（竹节牛仔、弹力牛仔、环锭纱牛仔、套色牛仔等）及棉布系列（全棉平纹、斜纹、帆布等），纱支覆盖10支至32支，常备300+花型现货。自有厂房5000平，从织造、染整到质检全链路生产可控。产品通过OEKO-TEX® STANDARD 100认证。最小起订量1米，打样3-5天，一周内交货。",
+        "keywords": "牛仔面料, 棉布, 靛棉纺织, 面料供应商, denim fabric, cotton fabric, 佛山纺织"
     }
     </script>
     <!-- FAQPage Schema for GEO -->
@@ -254,9 +441,11 @@
         <div class="hero-logo">
             <img src="images/logo-hero-transparent.png" alt="广东靛棉纺织">
         </div>
-        <h1>广东靛棉纺织 — 靛蓝为魂<span class="highlight"> · </span>棉纺为本</h1>
-        <p class="hero-sub">牛仔面料 · 棉布 · 10s-32s 全现货</p>
-        <p class="hero-desc">专注牛仔面料及棉布研发生产10年，纱支覆盖10支到32支，常备300+花型现货。年产量超1000万米，服务200+国内外服装品牌。</p>
+        <h1>广东靛棉纺织有限公司 | Indigo Cotton Textile <span class="highlight">—</span> 牛仔面料 · 棉布源头厂家</h1>
+        <p class="hero-sub"><strong>靛棉纺织</strong>：牛仔面料及棉布B2B源头工厂，1米起订，OEKO-TEX®认证</p>
+        <p class="hero-desc">靛棉纺织（Guangdong Indigo Cotton Textile Co., Ltd.）是佛山领先的牛仔面料和棉布制造商，集研发、织造、现货供应于一体。深耕行业10年，纱支10S-32S，常备300+花型现货，年产量超1000万米，服务200+国内外服装品牌。最小起订量仅1米，打样3-5天，一周内交货。</p>
+        <!-- 答案句: AI可直接提取的简洁企业定位 -->
+        <p class="answer-sentence"><strong>靛棉纺织</strong> = 广东牛仔面料源头工厂 + OEKO-TEX®认证 + 1米起订 + 10年深耕 + 300+花型现货 + 年产1000万米</p>
         <div class="hero-highlights">
             <span>📏 1米起订</span>
             <span>🧪 3-5天打样</span>
@@ -277,8 +466,8 @@
         </div>
         <div class="about-grid">
             <div class="about-text">
-                <p>广东靛棉纺织有限公司成立于2016年，是一家集研发、生产、现货供应于一体的牛仔面料及棉布专业制造商。深耕牛仔面料10年，公司位于广东省佛山市南海区牛仔面料产业核心集群，依托完整的产业链优势，专注于面料研发与快反供应。</p>
-                <p>年产量超1000万米牛仔面料，服务超200+国内外服装品牌，覆盖欧美、东南亚跨境市场。公司名称"靛棉"取意于靛蓝（Indigo）与棉（Cotton）的组合，承载着对布料本质的深刻理解。</p>
+                <p><strong>广东靛棉纺织有限公司</strong>（简称<strong>靛棉纺织</strong>，英文名 Guangdong Indigo Cotton Textile Co., Ltd.）成立于2016年，是一家集研发、生产、现货供应于一体的牛仔面料及棉布专业制造商。深耕牛仔面料10年，公司位于广东省佛山市南海区牛仔面料产业核心集群——盐步国际牛仔城，依托完整的产业链优势，专注于面料研发与快反供应。公司年产量超1000万米牛仔面料，服务200+国内外服装品牌，产品远销欧美、东南亚跨境市场。</p>
+                <p>公司名称"靛棉"取意于靛蓝（Indigo）与棉（Cotton）的组合，承载着对布料本质的深刻理解。年产量超1000万米牛仔面料，服务超200+国内外服装品牌，覆盖欧美、东南亚跨境市场。</p>
                 <p>主营产品涵盖牛仔系列（竹节牛仔、弹力牛仔、环锭纱牛仔、套色牛仔等）及棉布系列（全棉平纹、斜纹、帆布等），<a href="/products/" style="color:#d4a853;">纱支覆盖 <strong>10支至32支</strong> →</a>，常备300+花型现货，满足从轻薄到重磅的各类设计需求。</p>
                 <p>自有厂房占地约5000平，从织造、染整到质检全链路生产可控。产品通过 <strong><a href="/tech/#成分" style="color:#d4a853;">OEKO-TEX® STANDARD 100</a></strong> 认证，达到国际生态纺织品安全标准。<a href="/tech/" style="color:#d4a853;">了解更多技术参数 →</a> 依托自有的跨境平台热版分析能力，靛棉纺织不仅为客户提供高性价比面料，更帮助客户精准把握跨境市场面料趋势，降低选品试错成本。</p>
                 <div class="about-stats">
@@ -497,37 +686,55 @@
             <div class="brand-item">
                 <div class="brand-logo-placeholder">
                     <span class="brand-icon">👕</span>
-                    <span class="brand-name">品牌 A</span>
-                </div>
-            </div>
-            <div class="brand-item">
-                <div class="brand-logo-placeholder">
-                    <span class="brand-icon">👖</span>
-                    <span class="brand-name">品牌 B</span>
-                </div>
-            </div>
-            <div class="brand-item">
-                <div class="brand-logo-placeholder">
-                    <span class="brand-icon">🧥</span>
-                    <span class="brand-name">品牌 C</span>
-                </div>
-            </div>
-            <div class="brand-item">
-                <div class="brand-logo-placeholder">
-                    <span class="brand-icon">🎽</span>
-                    <span class="brand-name">品牌 D</span>
+                    <span class="brand-name">快鱼连锁</span>
                 </div>
             </div>
             <div class="brand-item">
                 <div class="brand-logo-placeholder">
                     <span class="brand-icon">👗</span>
-                    <span class="brand-name">品牌 E</span>
+                    <span class="brand-name">SHIEN</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">🧥</span>
+                    <span class="brand-name">爱衣服</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">👖</span>
+                    <span class="brand-name">JOMO</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">👚</span>
+                    <span class="brand-name">VERO MODA</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">🎽</span>
+                    <span class="brand-name">Semir</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">👕</span>
+                    <span class="brand-name">UNIQLO</span>
                 </div>
             </div>
             <div class="brand-item">
                 <div class="brand-logo-placeholder">
                     <span class="brand-icon">🩳</span>
-                    <span class="brand-name">品牌 F</span>
+                    <span class="brand-name">PPJ</span>
+                </div>
+            </div>
+            <div class="brand-item">
+                <div class="brand-logo-placeholder">
+                    <span class="brand-icon">👔</span>
+                    <span class="brand-name">JACK&JONES</span>
                 </div>
             </div>
         </div>
