@@ -38,6 +38,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- 产业指南 -->
+  <url>
+    <loc>https://www.indigocn.com/industry-guide/</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
   <!-- LLM 资源 -->
   <url>
     <loc>https://www.indigocn.com/llms.txt</loc>

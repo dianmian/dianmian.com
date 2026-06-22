@@ -7,6 +7,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -23,6 +24,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -42,6 +44,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -53,6 +56,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -64,6 +68,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -75,6 +80,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
@@ -86,6 +92,7 @@ Allow: /
 Allow: /products/
 Allow: /tech/
 Allow: /faq/
+Allow: /industry-guide/
 Allow: /geo-qa/
 Allow: /llms.txt
 Allow: /llms-full.txt
