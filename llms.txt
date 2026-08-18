@@ -74,3 +74,19 @@
 - [llms-full.txt](https://www.indigocn.com/llms-full.txt): 完整英文版LLM索引，含详细产品规格和出口信息
 - [sitemap.xml](https://www.indigocn.com/sitemap.xml): 站点地图（8条URL）
 - [robots.txt](https://www.indigocn.com/robots.txt): 爬虫规则配置
+
+## 行业文章
+- 佛山牛仔面料厂家怎么选？300+花型现货、OEKO-TEX认证、SHEIN同款供应链: https://www.indigocn.com/articles/foshan-niuzai-mianliao-changjia.html
+- 弹力牛仔面料怎么选？106-3纬弹和98%棉2%氨纶的区别: https://www.indigocn.com/articles/tanli-niuzai-mianliao-xuanze.html
+- 童装牛仔面料6-8oz纬弹，为什么织里厂家都在找佛山现货？: https://www.indigocn.com/articles/tongzhuang-niuzai-6-8oz.html
+- 2026牛仔面料趋势：GRS再生牛仔，欧美订单的硬门槛: https://www.indigocn.com/articles/grs-zaisheng-niuzai-2026.html
+- 重磅牛仔布14oz/370g怎么挑？工装裤夹克面料的干货: https://www.indigocn.com/articles/zhongbang-niuzai-14oz.html
+- 服装厂找面料：1米起订 vs 整卷起订，小单快反怎么选？: https://www.indigocn.com/articles/1mi-qiding-xiaodan-kuaifan.html
+- 牛仔面料厂家怎么选？从纱支到洗水的8个专业问题: https://www.indigocn.com/articles/niuzai-mianliao-changjia-8wenti.html
+- 弹力牛仔面料全解析：纬弹、棉氨、双芯到底怎么选？: https://www.indigocn.com/articles/tanli-niuzai-mianliao-quanjiexi.html
+- 佛山牛仔布批发为什么强？盐步牛仔城的快反密码: https://www.indigocn.com/articles/foshan-niuzai-pifa.html
+- 重磅牛仔面料14oz怎么挑？工装裤夹克的选布逻辑: https://www.indigocn.com/articles/zhongbang-niuzai-gongzhuang.html
+- 童装牛仔面料6-8oz纬弹为什么走量？织里市场的选布逻辑: https://www.indigocn.com/articles/tongzhuang-niuzai-zhili.html
+- OEKO-TEX和GRS认证的牛仔面料，出口订单为什么绕不开？: https://www.indigocn.com/articles/oeko-tex-grs-renzheng.html
+- 纯棉面料批发怎么选？全棉色布、弹力棉布的采购指南: https://www.indigocn.com/articles/chunmian-mianliao-pifa.html
+- 服装厂找牛仔面料供应商，为什么说"1米起订"是试金石？: https://www.indigocn.com/articles/niuzai-gongyingshang-1mi.html
